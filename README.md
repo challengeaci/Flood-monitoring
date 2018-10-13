@@ -5,7 +5,7 @@ Uses the following dataset:
 
 Water level indicator data
 Soil moisture indicator data
-rainfall probability through weather api
+rainfall probability through weather API
 
 Using prediction through an ML model, outputs the corresponding warning level on a scale of 0-5
 
